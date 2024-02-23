@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="768bee17-9217-478d-81d4-0c5646d6db5b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/generated/docs/errors/NG0100.json" beforeDir="false" afterPath="$PROJECT_DIR$/generated/docs/errors/NG0100.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/docs/errors/NG0200.json" beforeDir="false" afterPath="$PROJECT_DIR$/generated/docs/errors/NG0200.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/docs/errors/NG0201.json" beforeDir="false" afterPath="$PROJECT_DIR$/generated/docs/errors/NG0201.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/docs/errors/NG0300.json" beforeDir="false" afterPath="$PROJECT_DIR$/generated/docs/errors/NG0300.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/docs/errors/NG0301.json" beforeDir="false" afterPath="$PROJECT_DIR$/generated/docs/errors/NG0301.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/docs/errors/NG0302.json" beforeDir="false" afterPath="$PROJECT_DIR$/generated/docs/errors/NG0302.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/docs/errors/NG8002.json" beforeDir="false" afterPath="$PROJECT_DIR$/generated/docs/errors/NG8002.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/docs/errors/NG8003.json" beforeDir="false" afterPath="$PROJECT_DIR$/generated/docs/errors/NG8003.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/docs/errors/n_g_0100.json" beforeDir="false" afterPath="$PROJECT_DIR$/generated/docs/errors/n_g_0100.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/docs/errors/n_g_0200.json" beforeDir="false" afterPath="$PROJECT_DIR$/generated/docs/errors/n_g_0200.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/docs/errors/n_g_0201.json" beforeDir="false" afterPath="$PROJECT_DIR$/generated/docs/errors/n_g_0201.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/docs/errors/n_g_0300.json" beforeDir="false" afterPath="$PROJECT_DIR$/generated/docs/errors/n_g_0300.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/docs/errors/n_g_0301.json" beforeDir="false" afterPath="$PROJECT_DIR$/generated/docs/errors/n_g_0301.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/docs/errors/n_g_0302.json" beforeDir="false" afterPath="$PROJECT_DIR$/generated/docs/errors/n_g_0302.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/docs/errors/n_g_8002.json" beforeDir="false" afterPath="$PROJECT_DIR$/generated/docs/errors/n_g_8002.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/docs/errors/n_g_8003.json" beforeDir="false" afterPath="$PROJECT_DIR$/generated/docs/errors/n_g_8003.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/docs/guide/change-detection.json" beforeDir="false" afterPath="$PROJECT_DIR$/generated/docs/guide/change-detection.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/docs/guide/devtools.json" beforeDir="false" afterPath="$PROJECT_DIR$/generated/docs/guide/devtools.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/docs/guide/i18n-overview.json" beforeDir="false" afterPath="$PROJECT_DIR$/generated/docs/guide/i18n-overview.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/docs/guide/standalone-components.json" beforeDir="false" afterPath="$PROJECT_DIR$/generated/docs/guide/standalone-components.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/docs/guide/typed-forms.json" beforeDir="false" afterPath="$PROJECT_DIR$/generated/docs/guide/typed-forms.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2ckiBWq3cm0eBeyEr4Zldd0vXRo" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="768bee17-9217-478d-81d4-0c5646d6db5b" name="Changes" comment="" />
+      <created>1708661844509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708661844509</updated>
+      <workItem from="1708661846682" duration="28000" />
+    </task>
+    <servers />
+  </component>
+</project>
